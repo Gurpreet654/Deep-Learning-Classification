@@ -14,4 +14,5 @@ INI Benchmark Website
 
 # Preprocessing
 The size of input image is consider 64x64 and all the images were resized
+
 Name the folders were changed to string
